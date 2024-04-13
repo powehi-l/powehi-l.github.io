@@ -107,4 +107,4 @@ deploy:
   # branch: gh-pages
 
 # minifier to make the transmit faster
-all_minifier: false
+all_minifier: true
