@@ -30,6 +30,11 @@ jobs:
         run: |
           npm install
           echo "init node successful"
+      - name: Install Pandoc
+        run: |
+          cd /tmp
+          wget -c https://github.com/jgm/pandoc/releases/download/2.14.0.3/pandoc-2.14.0.3-1-amd64.deb
+          sudo dpkg -i pandoc-2.14.0.3-1-amd64.deb
       - name: Install Hexo-cli # 安装 Hexo
         run: |
           npm install -g hexo-cli --save
