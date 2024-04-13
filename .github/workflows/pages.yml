@@ -1,4 +1,4 @@
-name: powler's Blog CI/CD # 脚本 workflow 名称
+name: Powler's Blog CI/CD # 脚本 workflow 名称
 
 on:
   push:
@@ -39,9 +39,9 @@ jobs:
           hexo clean
           hexo g
           echo "build blog successful"
-      - name: Deploy powler's Blog # 设置 git 信息并推送静态博客文件
+      - name: Deploy Powler's Blog # 设置 git 信息并推送静态博客文件
         run: |
-          git config --global user.name "powler"
+          git config --global user.name "Powler"
           git config --global user.email "1119272440@qq.com"
           hexo deploy
 
