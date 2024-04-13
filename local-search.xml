@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2024/04/13/Feynman_Lectures/The%20Theory%20of%20Gravitation/"/>
+    <url>/2024/04/13/Feynman_Lectures/The%20Theory%20of%20Gravitation/</url>
+    
+    <content type="html"><![CDATA[<hr /><p>title: The Theory of Gravitation categories: [Feynman Lectures]</p><h1 id="两个基本原则">两个基本原则</h1><p>Law of gravitation: Every object in the universe attracts every other object with a force which for any two bodies is proportional to the mass of each and varies inversely as the square of the distance between them.</p><p>First law of Newton: An object responds to a force by accelerating in the direction of the force by an amount that is inversely proportional to the mass of the object,</p><h1 id="keplers-three-laws">Kepler's three laws</h1><ol type="1"><li>Each planet moves around the sun in an ellipse, with the sum at one focus.</li><li>The radius vector from the sun to the planet sweeps out equal areas in equal intervals of time.</li><li>The squares of the periods of any two planets are proportional to the cubes of the semimajor axes of their respective orbits: <span class="math inline">\(T \propto a^{\frac{3}{2}}\)</span></li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Time and Distance</title>
+    <link href="/2024/04/13/Feynman_Lectures/Time%20and%20Distance/"/>
+    <url>/2024/04/13/Feynman_Lectures/Time%20and%20Distance/</url>
+    
+    <content type="html"><![CDATA[<p>时间和空间究竟是什么？就如讲义里面所说的，很难对这两者进行定义，但是从体验的角度来说，这两者都是一个过程。没有人能知道一个时刻是什么，也无法体验，因为当你到达那个时刻的时候，不管是任何动作或者是思考，都需要时间的累积，但是当时间成功累计，这已经是下一个时刻了。</p><h1 id="时间">时间</h1><p>费曼从另一个角度定义了时间，将时间理解为一种==相对==的东西，时间并不是绝对的东西，一小时之所以比一秒长，是因为我们知道一个小时等于3600秒。如果没有绝对的时间长度，那么我们需要制定一个标准，就像我们将山的高度定义为海平面上多少米这样（虽然海平面也会变），我们需要一个类似海平面一样的标准，这个标准不应该容易改变，而且要容易测量。</p><p>对于时间来说，这个标准肯定来自于某些==自然的、有规律==的现象，这样才可以作为标准。一秒并不是那么自然的一个现象，有什么自然现象是恒定一秒发生一次吗？好像目前一下子想不到一个比较合适的。这个标准应该是一天，白天黑夜，往复循环，这是最容易观察到的自然现象（虽然也不能确定一天是严格不变的），然后由一天，中国将其分为12个时辰，西方将其分为24个小时。为什么会划分出一秒这样一个时间单位呢？一个小时的3600分之一，这个定义很奇怪，但是可能因为一秒是对应人类进行感知比较合适的单位，所以才这样划分的吧（maybe）</p><h2 id="比一天更小的时间">比一天更小的时间</h2><p>由一天可以向下继续划分，一个小时，一分钟，一秒，一毫秒，一微秒。当我们不断向下，精度的限制要求我们用更精确的有规律的东西，振荡器可以用来产生更小的时间段。</p><table><thead><tr class="header"><th>时间</th><th>对应事件</th></tr></thead><tbody><tr class="odd"><td><span class="math inline">\(10^{-9}\)</span></td><td>光速</td></tr><tr class="even"><td><span class="math inline">\(10^{-12}\)</span></td><td>分子旋转</td></tr><tr class="odd"><td><span class="math inline">\(10^{-15}\)</span></td><td>原子震动</td></tr><tr class="even"><td><span class="math inline">\(10^{-18}\)</span></td><td>光经过原子距离</td></tr><tr class="odd"><td><span class="math inline">\(10^{-24}\)</span></td><td>光经过原子核距离</td></tr></tbody></table><p>我觉得很有意思的一个问题是，时间究竟是不是连续的呢？如果时间最终也只是量子化的东西，会对哲学产生什么样的影响呢？确实很有意思</p><h2 id="比一天更大的时间">比一天更大的时间</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>Feynman Lectures</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
