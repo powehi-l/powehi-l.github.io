@@ -105,3 +105,6 @@ deploy:
   repository: #git@github.com:powehi-l/powehi-l.github.io.git
     github: https://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@github.com/powehi-l/powehi-l.github.io,gh-pages
   # branch: gh-pages
+
+# minifier to make the transmit faster
+all_minifier: false
