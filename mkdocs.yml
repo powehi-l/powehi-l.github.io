@@ -1,8 +1,46 @@
 site_name: powler's space
 site_url: https://powler.top
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换到夜间模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到日间模式
+
+docs_dir: docs
+
+plugins:
+  - search
+  - roamlinks
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
   - About: about.md
-
-theme: material
+  - 知识库:
+      - 索引: obsidian/索引.md
